@@ -1,0 +1,8 @@
+response = getcode(sections[uid])
+template = f'<html><head><link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet"></head> <body> {response} </body></html>'
+
+print(template)
+print('-'*50)
+from IPython.display import display, HTML , IFrame
+
+display(HTML(template))
