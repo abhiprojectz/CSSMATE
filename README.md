@@ -36,7 +36,8 @@ Basically just type your query as if you are asking to your friend like in plain
 
 > INPUT: Give me button
 
-> OUTPUT: <button class='__tailwindCSS Classes__'>button</button>
+OUTPUT: ```html
+ <button class='__tailwindCSS Classes__'>button</button> ```
 
 
 # Docs 
