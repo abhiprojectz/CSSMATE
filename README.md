@@ -2,6 +2,9 @@
 
 This is very simple but smart CSS Frontend layout code generator!
 
+![](1.PNG)
+
+
 # What's actually is this?
 
 This is a tool that takes englishh queries text basically for any non web developer and outputs the CSS Code or TailwindCSS Code layout for that query.
@@ -29,6 +32,21 @@ Including CSS Flexbox , text , containers , responsive layouts etc.
 This is how the interface looks like & is powered by FLASK simple yet efficient!
 
 ![](preview.png)
+
+
+
+# Tests
+
+![](2.PNG)
+
+
+![](3.PNG)
+
+
+![](4.PNG)
+
+
+
 
 # Syntax
 
